@@ -8,7 +8,7 @@
 
 The geo-entities module, a part of the Naksha map component used by the CropCert platform.
 
-This repository is part of the [CropCert Platform](https://github.com/cropcert-platform), an open-source platform for certification and traceability that helps small growers add value to their crops and reach better markets.
+This repository is part of the [CropCert Platform](https://github.com/cropcert-platform), an open-source platform for crop certification and traceability that helps small growers add value to their crops and reach better markets.
 
 ## ✨ Features
 
@@ -44,7 +44,6 @@ Then add it as a dependency using the `groupId`, `artifactId` and `version` defi
 .
 ├── pom.xml          # Maven build definition
 ├── src/main         # Application source code
-├── assets/banner.svg # README banner
 └── LICENSE
 ```
 
